@@ -46,7 +46,7 @@
     "long": "4.0.0",
     "slip": "1.0.2",
     "wolfy87-eventemitter": "5.2.9",
-    "ws": "8.13.0"
+    "ws": "8.17.1"
   },
   "optionalDependencies": {
     "serialport": "10.5.0"
